@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.class1 {
+  background-color: rgb(226, 168, 225);
+  font: Verdana, DejaVu Sans, sans-serif;
+}
+.class2 {
+  background-color: rgb(226, 168, 225);
+  font: Verdana, DejaVu Sans, sans-serif;
+  font-size: 24px;
+}
+.class3 {
+  background-color: rgb(226, 168, 225);
+   font: Verdana, DejaVu Sans, sans-serif;
+}
+#id1 {
+  color: blue;
+  font-size: 36px;
+
+}
+#id2 {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
